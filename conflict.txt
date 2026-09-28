@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 mijn naam is tarik
 mijn naam is tarik saadi
+=======
+ik ben 18
+>>>>>>> 69c6314dcc7299f358374ea87e70434df30ad80e
